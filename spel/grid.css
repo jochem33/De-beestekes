@@ -1,0 +1,27 @@
+#animate {
+  width: 100px;
+  /* height: 70px;
+  position: absolute; */
+  grid-column-start: 1;
+  grid-row-start: 1;
+}
+
+#barry {
+    width: 100%;
+}
+
+.eten {
+    position: absolute;
+    left: 540px; 
+    bottom: 30px;
+}
+
+#garden {
+  display: grid;
+  grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  grid-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  position: absolute;
+  width: 100%;
+  border: 1px solid blue;
+  height: 200px
+}
